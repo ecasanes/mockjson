@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "article-1",
+      "title": "Article 1",
+      "post": "This is a sample blog post for Article 1"
+    }, 
+    {
+      "id": "article-2",
+      "title": "Article 2",
+      "post": "This is another one for Article 2"
+    },
+    {
+      "id": "article-3",
+      "title": "Article 3",
+      "post": "Finally... - Article 3"
+    }
+  ]
+}
