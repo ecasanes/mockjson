@@ -92,5 +92,25 @@
             "inflow": "100.00",
             "isEditing": false
         }
+    ],
+  "accounts": [
+        {
+            "id": "account-1",
+            "name": "Account 1",
+            "balance": "300.00",
+            "type": "Savings"
+        },
+        {
+            "id": "account-2",
+            "name": "Account 2",
+            "balance": "300.00",
+            "type": "Savings"
+        },
+        {
+            "id": "account-3",
+            "name": "Account 3",
+            "balance": "300.00",
+            "type": "Savings"
+        }
     ]
 }
