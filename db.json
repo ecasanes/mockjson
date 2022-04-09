@@ -15,5 +15,82 @@
       "title": "Article 3",
       "post": "Finally... - Article 3"
     }
-  ]
+  ],
+  "transactions": [
+        {
+            "id": "transaction-1",
+            "accountId": "account-1",
+            "selected": false,
+            "recurring": false,
+            "cleared": true,
+            "bookmarked": false,
+            "date": "04/09/2022",
+            "payee": "Transaction 1",
+            "category": "Category 1",
+            "memo": "",
+            "outflow": "",
+            "inflow": "100.00",
+            "isEditing": false
+        },
+        {
+            "id": "transaction-2",
+            "accountId": "account-1",
+            "selected": false,
+            "recurring": false,
+            "cleared": true,
+            "bookmarked": false,
+            "date": "04/09/2022",
+            "payee": "Transaction 1",
+            "category": "Category 1",
+            "memo": "",
+            "outflow": "",
+            "inflow": "900.00",
+            "isEditing": false
+        },
+        {
+            "id": "transaction-3",
+            "accountId": "account-2",
+            "selected": false,
+            "recurring": false,
+            "cleared": true,
+            "bookmarked": false,
+            "date": "04/09/2022",
+            "payee": "Transaction 3",
+            "category": "Category 1",
+            "memo": "",
+            "outflow": "",
+            "inflow": "300.00",
+            "isEditing": false
+        },
+        {
+            "id": "transaction-4",
+            "accountId": "account-2",
+            "selected": false,
+            "recurring": false,
+            "cleared": true,
+            "bookmarked": false,
+            "date": "04/09/2022",
+            "payee": "Transaction 4",
+            "category": "Category 1",
+            "memo": "",
+            "outflow": "",
+            "inflow": "100.00",
+            "isEditing": false
+        },
+        {
+            "id": "transaction-5",
+            "accountId": "account-1",
+            "selected": false,
+            "recurring": false,
+            "cleared": true,
+            "bookmarked": false,
+            "date": "04/09/2022",
+            "payee": "Transaction 5",
+            "category": "Category 1",
+            "memo": "",
+            "outflow": "",
+            "inflow": "100.00",
+            "isEditing": false
+        }
+    ]
 }
